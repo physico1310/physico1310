@@ -23,8 +23,8 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=physico1310&&theme=xcode)](https://github.com/physico1310)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physico@1310&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="physico@1310" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physico1310&show_icons=true&locale=en&layout=compact" alt="physico1310" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physico@1310&show_icons=true&locale=en&theme=tokyonight" alt="physico@1310" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physico1310&show_icons=true&locale=en" alt="physico1310" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=physico@1310&&theme=tokyonight" alt="physico@1310" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=physico1310&" alt="physico1310" /></p>
